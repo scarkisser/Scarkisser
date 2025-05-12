@@ -1,3 +1,4 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/32109948-2f5f-4573-9b32-542f76316f8f" width=180 height=150> 
+  <img src="https://github.com/user-attachments/assets/b7feb580-b5f6-45d9-8317-3ae1f95ac07d" width=360 height=550> 
+  <p> art by me</p>
 </div>
